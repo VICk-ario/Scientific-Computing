@@ -26,7 +26,7 @@ type in command prompt:
                    python modular_functions.py
 
 
-3.Run control_structures.py
+3. Run control_structures.py
 This script includes examples of loops (`for` and `while`), conditional statements (`if-elif-else`), and other control structures.  
 
 To execute:
