@@ -1,5 +1,6 @@
 
 Objective of each script
+
 This repository contains three Python scripts that cover fundamental programming concepts:  
 1. datatypes.py - Understanding and working with different data types in Python such as int, float, complex, list, tuple, dict, set, and bool.
                  - Casting in python using constructor functions:int(), float(), complex()
@@ -17,7 +18,7 @@ This script demonstrates how Python handles different data types such as strings
 type in command prompt:
          python datatypes.py
 
-2. Run `modular_functions.py`
+2. Run modular_functions.py
 This script showcases how to define and use functions effectively, promoting modular programming.  
 
 To execute: 
@@ -25,7 +26,7 @@ type in command prompt:
                    python modular_functions.py
 
 
-3.Run `control_structures.py`
+3.Run control_structures.py
 This script includes examples of loops (`for` and `while`), conditional statements (`if-elif-else`), and other control structures.  
 
 To execute:
