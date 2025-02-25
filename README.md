@@ -27,7 +27,7 @@ type in command prompt:
 
 
 3. Run control_structures.py
-This script includes examples of loops (`for` and `while`), conditional statements (`if-elif-else`), and other control structures.  
+This script includes examples of loops (for and while), conditional statements (if-elif-else), and other control structures.  
 
 To execute:
 type in command prompt:
